@@ -1,5 +1,4 @@
-# Ej1ReactTp
-# Una Aplicacion realizada con vite para la creacion del Hello world en react.# Hello World App
+# Una Aplicacion realizada con vite para la creacion del Hello world en react.
 
 Esta es una aplicación web simple creada con React que muestra un mensaje personalizado.
 
